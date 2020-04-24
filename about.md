@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /about/
+title: 新冠专题
+permalink: /pageA/
 ---
 
 
