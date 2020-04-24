@@ -1,12 +1,12 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: 疾病
+permalink: /pageB/
 ---
 
-## Education/Academic career
- - 2016/09 -- 2020/09:	Postdoctoral researcher at MPIK, Heidelberg, Germany.
- - 2011/09 -- 2016/06:	PhD, Tsinghua University, Beijing, China.
- - 2007/08 -- 2011/07:	Undergraduate, Tsinghua University, Beijing, China.
+## 大水牛
+ - 水牛是黑的
+ - 奶牛是花的
+ - 黄牛真好吃
 
-Full CV available upon request.
+水牛，奶牛和黄牛
