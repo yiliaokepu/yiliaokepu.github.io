@@ -5,18 +5,18 @@ permalink: /about/
 ---
 
 
-## Preferred:
+## 小白兔，白又白:
 
- - Email: <img src="/image/email.png" alt="email" width="200">
+ - 两只耳朵竖起来
 
- - Instant Messaging :
-	- Telegram (username:xunjiexu)
-	- Google Hangouts (same as gmail)
-	- Skype (same as gmail)
-	- QQ (available upon request)
+ - 两只耳朵竖起来
+	- T
+	- G
+	- S
+	- Q
 
-## Deprecated:
+## 大白兔:
 
- - Wechat (available upon request. I usually do not check it regularly.)
+ - 奶糖真好吃
 
 
