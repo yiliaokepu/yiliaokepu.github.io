@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Xunjie XU
+title: 标题（小绵羊）
 # email: <img src="/image/email.png" alt="email" width="200">
-description: xunjie@mpi-hd.mpg.de
-#x_x = X_Xu = Xun-Jie Xu
-#at the Max-Planck-Institut für Kernphysik, Heidelberg, Germany.
+description: 咩咩咩
+#x-x-x-x
+#x-x-x-x
 baseurl: "" 
 # the subpath of your site, e.g. /blog
 url: https://xunjiexu.github.io/about/
 #twitter_username: jekyllrb
-github_username:  xunjiexu
+# github_username:  xunjiexu
 
 # Build settings
 markdown: kramdown
