@@ -1,0 +1,5 @@
+在工作目录下打开terminal
+输入
+bundle exec jekyll serve
+
+会创建local的服务器，并提供相应的网址
