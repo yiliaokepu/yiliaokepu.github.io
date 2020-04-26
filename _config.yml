@@ -30,6 +30,11 @@ theme: minima
 #plugins:
 #  - jekyll-feed
 
+header_pages:
+ - 新冠专题.md
+ - 疾病科普.md
+ - 药物介绍.md
+ - about.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
