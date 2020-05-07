@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "感官系统"
+title: "感觉系统"
 permalink: /main_skin_sense_organs/
 ---
 
