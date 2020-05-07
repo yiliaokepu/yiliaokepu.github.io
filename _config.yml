@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 医学科普
 # email: <img src="/image/email.png" alt="email" width="200">
-description: 本网站版权归xxx所有，不得用于任何商业用途
+description: 本网站属于公益网站，版权归xxx所有，不得用于任何商业用途
 #x_x = X_Xu = Xun-Jie Xu
 #at the Max-Planck-Institut für Kernphysik, Heidelberg, Germany.
 baseurl: ""
