@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "耳鼻喉科"
-permalink: /main_ear_nose_throat/
+title: "肌肉骨骼系统"
+permalink: /main_musculoskeletal_system/
 ---
 
   <img src="/image/head.jpg" alt="drawing" width="200">

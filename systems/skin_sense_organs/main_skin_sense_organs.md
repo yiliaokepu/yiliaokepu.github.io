@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "骨科、关节、肌肉"
-permalink: /main_bones_joints_muscles/
+title: "感官系统"
+permalink: /main_skin_sense_organs/
 ---
 
   <img src="/image/head.jpg" alt="drawing" width="200">
+
+
+

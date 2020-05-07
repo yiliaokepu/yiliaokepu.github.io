@@ -1,11 +1,7 @@
 ---
 layout: page
-title: "气管"
-permalink: /rnd_trachea/
+title: "泌尿系统"
+permalink: /main_urinary_system/
 ---
 
   <img src="/image/head.jpg" alt="drawing" width="200">
-
-
-[流感](/flu/)
-

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "大脑、神经"
-permalink: /main_brain_nerves/
+title: "心血管系统"
+permalink: /main_cardiovascular_system/
 ---
 
   <img src="/image/head.jpg" alt="drawing" width="200">
